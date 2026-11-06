@@ -1,0 +1,4 @@
+interface:
+  display_name: "场景导向界面设计与自检"
+  short_description: "按用户任务拆分界面与操作流程，用真实路径和截图完成整改自检"
+  default_prompt: "使用 $scenario-ui-ux 按用户场景整改现有界面，并自检至本次范围合格。"
